@@ -1,1 +1,1 @@
-../YYImagePackage/YYSpriteSheetImage.h
+../YYImage/YYSpriteSheetImage.h

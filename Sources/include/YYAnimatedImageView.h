@@ -1,1 +1,1 @@
-../YYImagePackage/YYAnimatedImageView.h
+../YYImage/YYAnimatedImageView.h

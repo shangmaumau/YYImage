@@ -1,1 +1,1 @@
-../YYImagePackage/YYImage.h
+../YYImage/YYImage.h

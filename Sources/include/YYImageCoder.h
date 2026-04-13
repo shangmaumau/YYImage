@@ -1,1 +1,1 @@
-../YYImagePackage/YYImageCoder.h
+../YYImage/YYImageCoder.h
